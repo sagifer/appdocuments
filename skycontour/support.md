@@ -25,6 +25,10 @@ Please mention your phone model, the iOS or Android version and the app version.
 - **N.I.N.A.:** in *Options › General › Astrometry › Custom Horizon*, select the exported `.hrz` file.
 - **Stellarium:** *Sky and viewing options (F4) › Landscape › Add/remove landscapes › Install a new landscape from .zip*, then select the exported zip.
 
+## Sample file
+
+[backyard-pier.hrz](sample/backyard-pier.hrz): an example N.I.N.A. horizon. Download it to Files, then use *Import existing .hrz* on the Sites screen to try the Review and Export screens without a survey.
+
 ## Privacy
 
 See the [Privacy Policy](privacy.html). The app collects no data.
