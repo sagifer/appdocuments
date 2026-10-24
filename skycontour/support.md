@@ -22,7 +22,7 @@ Please mention your phone model, the iOS or Android version and the app version.
 
 ## Using the files
 
-- **N.I.N.A.:** *Options › General › Astrometry › Custom Horizon*, select the exported `.hrz` file.
+- **N.I.N.A.:** in *Options › General › Astrometry › Custom Horizon*, select the exported `.hrz` file.
 - **Stellarium:** *Sky and viewing options (F4) › Landscape › Add/remove landscapes › Install a new landscape from .zip*, then select the exported zip.
 
 ## Privacy
