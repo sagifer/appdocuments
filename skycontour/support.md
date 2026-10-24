@@ -27,7 +27,7 @@ Please mention your phone model, the iOS or Android version and the app version.
 
 ## Sample file
 
-[backyard-pier.hrz](sample/backyard-pier.hrz): an example N.I.N.A. horizon. Download it to Files, then use *Import existing .hrz* on the Sites screen to try the Review and Export screens without a survey.
+[backyard-pier.hrz](sample/backyard-pier.hrz) (also as [backyard-pier.txt](sample/backyard-pier.txt)): an example N.I.N.A. horizon. Download it to Files, then use *Import existing .hrz* on the Sites screen to try the Review and Export screens without a survey.
 
 ## Privacy
 
